@@ -1,46 +1,39 @@
 # Vlode
 
-Vlode is a powerful platform designed for writers and readers to create, share, and discover long-form content seamlessly. It provides an intuitive experience for content creation and exploration.
+Vlode is a modern full-stack blogging platform where users can create, publish, and explore long-form content with a clean and responsive interface.
 
 ## Features
 
-- Write, edit, and publish articles.
-- Discover engaging long-form content.
-- User-friendly interface for writers and readers.
+- User authentication and authorization
+- Create, edit, and delete blogs
+- Responsive and modern UI
+- Rich text content management
+- Explore and read blogs from different users
+- Fast and scalable backend APIs
 
 ## Tech Stack
 
-- **Frontend:** React, TypeScript
-- **Backend:** Cloudflare Workers, Hono, Zod
-- **Database:** PostgreSQL with Prisma ORM
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
 
-## Setup
+### Backend
+- Cloudflare Workers
+- Hono
+- Zod
 
-1. Clone the repo: `git clone https://github.com/garvitj2003/vlode.git`
-2. Install dependencies: `npm install` after getting into backend or frontend dir
+### Database
+- PostgreSQL
+- Prisma ORM
 
-## Commands
+## Installation
+
+### Clone Repository
 
 ```bash
-# Clone the repository
-git clone https://github.com/garvitj2003/vlode.git
-
-# Navigate to the project directory
-cd vlode
-cd backend
-# or
-cd frontend
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-
-# Build the project for production
-npm run build
-
-
-```
+git clone https://github.com/harshitj101/Vlode1.git
 
 ## License
 
