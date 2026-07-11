@@ -2,7 +2,7 @@ import { Hono } from "hono";
 import { Prisma, PrismaClient } from "@prisma/client/edge";
 import { withAccelerate } from "@prisma/extension-accelerate";
 import { verify } from "hono/jwt";
-import { createBlogInput, updateBlogInput } from "@garvit__nmps/zod-common";
+import { createBlogInput, updateBlogInput } from "@Harshit__nmps/zod-common";
 
 export const blogRouter = new Hono<{
   Bindings: {

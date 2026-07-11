@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@garvit__nmps/zod-common": "^1.0.1",
+    "@Harshit__nmps/zod-common": "^1.0.1",
     "axios": "^1.7.7",
     "framer-motion": "^11.11.4",
     "lucide-react": "^0.451.0",

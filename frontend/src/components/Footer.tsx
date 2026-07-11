@@ -11,10 +11,10 @@ const Footer = () => {
         Designed and developed by{" "}
         <a
           target="_blank"
-          href="https://x.com/GarvitXalt"
+          href="https://x.com/HarshitXalt"
           className="border-b border-black italic hover:text-black transition-all ease-in-out duration-500"
         >
-          Garvit
+          Harshit
         </a>
       </div>
     </motion.div>

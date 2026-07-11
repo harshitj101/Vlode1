@@ -1,4 +1,4 @@
-export const backendUrl = "https://backend.garvitj2003.workers.dev";
+export const backendUrl = "https://backend.Harshitj2003.workers.dev";
 
 // Never wanted this but had to do this for ease of visitor experience
 

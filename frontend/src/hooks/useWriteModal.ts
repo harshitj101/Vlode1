@@ -1,4 +1,4 @@
-import { CreateBlogInput } from "@garvit__nmps/zod-common";
+import { CreateBlogInput } from "@Harshit__nmps/zod-common";
 import axios from "axios";
 import { useState, useEffect } from "react";
 import { backendUrl } from "../config";

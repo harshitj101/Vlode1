@@ -1,12 +1,12 @@
 {
-  "name": "@garvit__nmps/zod-common",
+  "name": "@Harshit__nmps/zod-common",
   "version": "1.0.1",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Garvit",
+  "author": "Harshit",
   "license": "ISC",
   "description": "",
   "dependencies": {
