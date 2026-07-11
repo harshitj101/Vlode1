@@ -34,6 +34,7 @@ Vlode is a modern full-stack blogging platform where users can create, publish, 
 
 ```bash
 git clone https://github.com/harshitj101/Vlode1.git
+```
 
 ## License
 

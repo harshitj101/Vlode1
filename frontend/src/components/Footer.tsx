@@ -11,7 +11,7 @@ const Footer = () => {
         Designed and developed by{" "}
         <a
           target="_blank"
-          href="https://x.com/HarshitXalt"
+          href="https://github.com/harshit"
           className="border-b border-black italic hover:text-black transition-all ease-in-out duration-500"
         >
           Harshit
