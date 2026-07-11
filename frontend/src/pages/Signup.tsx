@@ -1,6 +1,6 @@
 import { useState } from "react";
 import LabelledInput from "../components/LabelledInput";
-import { SignupInputs } from "@Harshit__nmps/zod-common";
+import { SignupInputs } from "@garvit__nmps/zod-common";
 import AuthCard from "../components/AuthCard";
 import Quote from "../components/Quote";
 import axios from "axios";
